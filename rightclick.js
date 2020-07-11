@@ -1,7 +1,7 @@
 window.onclick = hideContextMenu;
 window.onkeydown = listenKeys;
 var contextMenu = document.getElementById('contextMenu');
-
+//comment
 function showContextMenu(event) 
 {
 	contextMenu.style.display='block';
